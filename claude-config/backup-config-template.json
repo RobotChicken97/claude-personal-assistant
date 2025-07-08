@@ -1,0 +1,23 @@
+{
+  "github": {
+    "username": "RobotChicken97",
+    "token": "REDACTED",
+    "repo_name": "claude-personal-assistant"
+  },
+  "backup": {
+    "auto_commit": true,
+    "backup_frequency": "daily",
+    "last_backup": "",
+    "exclude_patterns": [
+      "*.log",
+      "session-*.json",
+      ".DS_Store",
+      "*.tmp"
+    ]
+  },
+  "sync": {
+    "include_performance_data": true,
+    "include_learning_data": true,
+    "include_session_data": false
+  }
+}

@@ -1,0 +1,12 @@
+# Sensitive files
+backup-config.json
+*.token
+*.key
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+
+# Session data (optional - can be excluded)
+session-*.json
